@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ll_empty_text">暂无数据</string>
+    <string name="ll_error_text">无网络连接，请检查您的网络...</string>
+    <string name="ll_retry_text">加载失败，点击重试~~</string>
+    <string name="ll_loading_text">加载中...</string>
+</resources>

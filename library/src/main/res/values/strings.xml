@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ll_empty_text">No data</string>
+    <string name="ll_error_text">No network connection, please check your network...</string>
+    <string name="ll_retry_text">Loading failed, click to try again~~</string>
+    <string name="ll_loading_text">Loading...</string>
+</resources>

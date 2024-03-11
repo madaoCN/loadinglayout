@@ -41,10 +41,10 @@
         <item name="llButtonBackground">@drawable/_loading_layout_button</item>
 
         <item name="llEmptyImage">@null</item>
-        <item name="llEmptyText">暂无数据</item>
+        <item name="llEmptyText">@string/ll_empty_text</item>
         <item name="llErrorImage">@null</item>
-        <item name="llErrorText">无网络连接，请检查您的网络...</item>
-        <item name="llRetryText">加载失败，点击重试~~</item>
+        <item name="llErrorText">@string/ll_error_text</item>
+        <item name="llRetryText">@string/ll_retry_text</item>
     </style>
 
 

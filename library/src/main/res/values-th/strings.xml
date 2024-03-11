@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ll_empty_text">ไม่มีข้อมูล</string>
+    <string name="ll_error_text">ไม่มีการเชื่อมต่อเครือข่าย โปรดตรวจสอบเครือข่ายของคุณ...</string>
+    <string name="ll_retry_text">การโหลดล้มเหลว คลิกเพื่อลองอีกครั้ง~~</string>
+    <string name="ll_loading_text">กำลังโหลด...</string>
+</resources>

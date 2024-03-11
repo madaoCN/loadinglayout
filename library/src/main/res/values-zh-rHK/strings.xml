@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ll_empty_text">暫無資料</string>
+    <string name="ll_error_text">無網路連接，請檢查您的網路...</string>
+    <string name="ll_retry_text">載入失敗，點選重試~~</string>
+    <string name="ll_loading_text">載入中...</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ll_empty_text">Không có dữ liệu</string>
+    <string name="ll_error_text">Không có kết nối mạng, vui lòng kiểm tra mạng của bạn...</string>
+    <string name="ll_retry_text">Tải không thành công, nhấp để thử lại~~</string>
+    <string name="ll_loading_text">Đang tải...</string>
+</resources>

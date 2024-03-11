@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ll_empty_text">Tidak ada data</string>
+    <string name="ll_error_text">Tidak ada koneksi jaringan, harap periksa jaringan Anda...</string>
+    <string name="ll_retry_text">Gagal memuat, klik untuk mencoba lagi~~</string>
+    <string name="ll_loading_text">Memuat...</string>
+</resources>
